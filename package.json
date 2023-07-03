@@ -3,7 +3,7 @@
   "version": "1.13.0",
   "type": "module",
   "main": "./nuxt.config.ts",
-  "packageManager": "pnpm@8.5.1",
+  "packageManager": "pnpm@8.6.6",
   "files": [
     "app",
     "assets",
@@ -38,15 +38,15 @@
     "@algolia/client-search": "^4.18.0",
     "@docsearch/css": "^3.5.1",
     "@docsearch/js": "^3.5.1",
-    "@nuxt/devtools": "^0.6.4",
+    "@nuxt/devtools": "^0.6.6",
     "@nuxt/eslint-config": "^0.1.1",
     "@nuxtjs/algolia": "^1.8.0",
-    "@types/node": "^20.3.2",
-    "eslint": "^8.43.0",
+    "@types/node": "^20.3.3",
+    "eslint": "^8.44.0",
     "nuxt": "^3.6.1",
     "release-it": "^15.11.0",
     "typescript": "^5.1.6",
-    "vite-plugin-inspect": "^0.7.31",
+    "vite-plugin-inspect": "^0.7.32",
     "vue": "^3.3.4"
   },
   "pnpm": {
